@@ -1,0 +1,8 @@
+C:\Users\LAB03\Documents\SharpDevelop Projects\contador\contador\bin\Debug\contador.exe.config
+C:\Users\LAB03\Documents\SharpDevelop Projects\contador\contador\bin\Debug\contador.exe
+C:\Users\LAB03\Documents\SharpDevelop Projects\contador\contador\bin\Debug\contador.pdb
+C:\Users\LAB03\Documents\SharpDevelop Projects\contador\contador\obj\Debug\contador.csprojResolveAssemblyReference.cache
+C:\Users\LAB03\Documents\SharpDevelop Projects\contador\contador\obj\Debug\contador.MainForm.resources
+C:\Users\LAB03\Documents\SharpDevelop Projects\contador\contador\obj\Debug\contador.csproj.GenerateResource.Cache
+C:\Users\LAB03\Documents\SharpDevelop Projects\contador\contador\obj\Debug\contador.exe
+C:\Users\LAB03\Documents\SharpDevelop Projects\contador\contador\obj\Debug\contador.pdb
